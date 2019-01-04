@@ -6,7 +6,7 @@ jobs:
       # specify the version you desire here
       - image: circleci/node:10
 
-    working_directory: ~/src/dbdapi.js/
+    working_directory: ~/src/rendapi.js/
 
     steps:
       - checkout
